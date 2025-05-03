@@ -1,7 +1,7 @@
 # photo_organizer_sony
 > Python 3.10.6
 
-This project is a Python-based photo organizer designed for SONY Cameras.It allows users to drag and drop a folder containing photo and raw files, and the program will classify the files into different folders accordingly. After filtering the photos, the program will also remove the corresponding raws.
+This project is a Python-based photo organizer designed for SONY Cameras.It allows users to drag and drop a folder containing photo and raw files, and the program will classify the files into different folders accordingly. After filtering the photos, the program will also remove the corresponding raws.  
 Supported cameras: SONY.
 
 ## Workflow
